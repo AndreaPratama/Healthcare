@@ -95,7 +95,7 @@ The Power BI dashboard consists of **two main pages**:
 
 Dynamic filters for year, month, condition, admission type, and insurance provider allow for flexible insights exploration.
 
-You can interact with report here [Onyx Data](-)
+You can interact with report here [Onyx Data](https://app.powerbi.com/view?r=eyJrIjoiZmU5YmE2MzAtYTVkZi00ODkwLTgzMmQtNDViZWJjM2VlZjUwIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
 
 ![](dashboard.png) 
 
