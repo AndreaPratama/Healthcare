@@ -172,7 +172,7 @@ The analysis reveals:
 
 ---
 ### Repository Contents  
-- **Power BI Dashboard File**: The main [PBIX File](-) containing the analysis and visualizations. 
-- **Data Sources**: [Raw Dataset](-) used in the project.  
+- **Power BI Dashboard File**: The main [PBIX File](pbix_file.zip) containing the analysis and visualizations. 
+- **Data Sources**: [Raw Dataset](dataset.zip) used in the project.  
 - **Screenshots/Reports**: Exported visualizations for sharing insights.  
 - **README.md**: Project documentation (this file).
